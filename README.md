@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Arsheana-Chowdhury/Arsheana-Chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Data Analyst** from Bangladesh with a background in Mathematics and a passion for turning data into meaningful insights.
 
-Here are some ideas to get you started:
+I enjoy exploring datasets, identifying trends, and creating dashboards that support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Excel** — Data cleaning and analysis
+- **SQL** — Data querying and manipulation
+- **Power BI** — Data visualization and dashboards
+- **Python** — Data analysis and processing
+
+### 📊 What I'm Working On
+
+- Developing data analytics projects using real-world datasets
+- Building interactive dashboards and meaningful visualizations
+- Strengthening my skills in data analysis and business intelligence
+
+### 🚀 Featured Projects
+
+Explore my repositories to see my data analysis projects, dashboards, and insights.
